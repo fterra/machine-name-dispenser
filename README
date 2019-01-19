@@ -1,0 +1,7 @@
+Author : Fernando Terra
+Description : This project is a simple dispenser of name and IP to a automatic enviroment. 
+Frequently, the enterprises need to have a way to get a machine name and a IP and keep this information unique 
+within the intenal enviromennt.
+
+This small programam intent to be the simplest way to achieve this goal.
+
